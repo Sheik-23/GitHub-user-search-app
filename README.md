@@ -3,7 +3,7 @@
 A React application that allows you to search any GitHub user and instantly view their profile details and top repositories.
 
 ## 🚀 Live Demo
-[View Live →](https://github.com/Sheik-23/GitHub-user-search-app)
+[View Live →](https://git-hub-user-search-app-seven.vercel.app)
 
 ---
 
